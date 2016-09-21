@@ -1,0 +1,8 @@
+table {border:1px solid black;border-collapse:collapse;}
+table td, table th {border:1px solid black;padding:5px;text-align:center;}
+div#challenge table {float:left; margin:20px 10px;width:30%;}
+div#challenge table th {width:8em;}
+div#challenge table td.name {height:6em;}
+div#challenge table td.url {word-break:break-all;}
+div#challenge table a.win {width:100%;display:inline-block;text-decoration:none;}
+div#challenge table a.win:hover {text-decoration:underline;}
